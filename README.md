@@ -1,10 +1,10 @@
 # Meme-Generator
 A Interactive Web App Using REACT.js
 The content learned in Meme Generator development.
-Props vs. State
-useState
-Changing State
-Passing state as props
+-Props vs. State
+-useState
+-Changing State
+-Passing state as props
 Conditional Rendering
 Forms in React
 Controlled inputs
