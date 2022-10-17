@@ -1,6 +1,6 @@
 # Meme-Generator
 A Interactive Web App Using REACT.js
-The content learned in Meme Generator development.
+<h3>The content learned in Meme Generator development.</h3>
 -Props vs. State
 -useState
 -Changing State
